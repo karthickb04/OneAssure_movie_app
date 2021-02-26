@@ -70,7 +70,7 @@ const App = () => {
 				/>
 			</div>
 			<div className='row d-flex align-items-center mt-6 mb-8'>
-				<MovieListHeading heading='Favourites Movies' />
+				<MovieListHeading heading='Favourite Movies' />
 			</div>
 			<div className='row'>
 				<MovieList
